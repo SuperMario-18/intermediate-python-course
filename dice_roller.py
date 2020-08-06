@@ -1,3 +1,4 @@
+import random
 def main():
   roll = 5
   print(f'You rolled a {roll}')
